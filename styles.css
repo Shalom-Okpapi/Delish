@@ -165,6 +165,7 @@ body {
   transition: background 0.3s;
   margin:0 2%;
   text-align:center;
+    width:100%;
   }
 
 /* Contact Section */
